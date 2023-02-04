@@ -1,0 +1,22 @@
+
+
+
+
+
+
+main{
+	margin-top: 150px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#phone{
+	border-radius: 50px;
+}
+
+.iti__selected-flag{
+	border-radius: 50px 0 0 50px;
+
+}
